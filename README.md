@@ -16,17 +16,18 @@ Como maestro en artes, diseñador y desarrollador he participado durante más de
 
 
 ### Algunos proyectos e instituciones para los que he trabajado:  
-- Fundación para la Libertad de Prensa. Desarrollador del Museo virtual Memorias del Periodismo
-- Comisión para el Esclarecimiento de la Verdad. Visualización de Datos, Sistema de Información Misional de la Dirección de Conocimiento 
-- Maestría en Museología y Gestión del Patrimonio. Conferencista del módulo Tecnologías de la información y entornos virtuales
-- Universidad del Tolima. Docente de la cátedra Infografía
-Secretaría de Cultura, Recreación y Deporte. Ambientes virtuales para la apropiación y transformación del espacio público mediante el arte y cultura
-- BEXTechnology S.A. Liderar el equipo de diseñadores y desarrolladores de interfaz de usuario
-- Instituto Caro y Cuervo. Webmaster
-- Ministerio de Cultura. Webmaster
-- Cartel Urbano. Webmaster
-- La Silla Vacía. Editor gráfico
-- Museo de Arte Universidad Nacional de Colombia. Coordinador de comunicación y diseño
+- **Fundación para la Libertad de Prensa**. Desarrollador del Museo virtual Memorias del Periodismo
+- **Comisión para el Esclarecimiento de la Verdad**. Visualización de Datos, Sistema de Información Misional de la Dirección de Conocimiento
+- **Museo Nacional de Colombia**. Desarrollador del portal web Fragmentos, Espacio de Arte y Memoria. Desarrollador frontend del SIMCO Sistema de Información de Museos Colombianos
+- **Maestría en Museología y Gestión del Patrimonio**. Conferencista del módulo Tecnologías de la información y entornos virtuales
+- **Universidad del Tolima**. Docente de la cátedra Infografía
+- **Secretaría de Cultura, Recreación y Deporte**. Ambientes virtuales para la apropiación y transformación del espacio público mediante el arte y cultura
+- **BEXTechnology S.A**. Liderar el equipo de diseñadores y desarrolladores de interfaz de usuario
+- **Instituto Caro y Cuervo**. Webmaster
+- **Ministerio de Cultura**. Webmaster
+- **Cartel Urbano**. Webmaster
+- **La Silla Vacía**. Editor gráfico
+- **Museo de Arte Universidad Nacional de Colombia**. Coordinador de comunicación y diseño
   
   
 

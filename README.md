@@ -29,7 +29,6 @@ Como maestro en artes, diseñador y desarrollador he participado durante más de
 - **La Silla Vacía**. Editor gráfico
 - **Museo de Arte Universidad Nacional de Colombia**. Coordinador de comunicación y diseño
   
-  
 
 <br/>  
 
@@ -99,3 +98,9 @@ Como maestro en artes, diseñador y desarrollador he participado durante más de
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<br/> 
+
+#### Iniciativas en las que participo:
+- Alianza Colombiana de Museos - ACdM
+- Investigador autónomo del caso de Crísis y Cierre del HSJD - La Hortúa

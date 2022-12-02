@@ -66,6 +66,7 @@ Como maestro en artes, diseñador y desarrollador he participado durante más de
 <a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+  <a href="https://cube.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/jcarroyos/jcarroyos/4ecb953d7191709d6413a82271793aa485ad587e/cube.svg" alt="Cube" height="20" /></a>  
 </div>
 
 </td><td valign="top" width="33%">

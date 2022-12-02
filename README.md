@@ -15,7 +15,7 @@ Como maestro en artes, diseñador y desarrollador he participado durante más de
 
 
 
-### Algunos proyectos e instituciones para los que he trabajado:  
+### Algunas instituciones y proyectos donde he trabajado:  
 - **Fundación para la Libertad de Prensa**. Desarrollador del Museo virtual Memorias del Periodismo
 - **Comisión para el Esclarecimiento de la Verdad**. Visualización de Datos, Sistema de Información Misional de la Dirección de Conocimiento
 - **Museo Nacional de Colombia**. Desarrollador del portal web Fragmentos, Espacio de Arte y Memoria. Desarrollador frontend del SIMCO Sistema de Información de Museos Colombianos

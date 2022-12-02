@@ -104,3 +104,4 @@ Como maestro en artes, diseñador y desarrollador he participado durante más de
 #### Iniciativas en las que participo:
 - Alianza Colombiana de Museos - ACdM
 - Investigador autónomo del caso de Crísis y Cierre del HSJD - La Hortúa
+- Tutor del programa de mentorías de la *Data Visualization Society*

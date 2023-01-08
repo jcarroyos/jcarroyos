@@ -94,10 +94,10 @@ Como maestro en artes, diseñador y desarrollador he participado durante más de
 <a href="https://linkedin.com/in/juancarlosarroyo" target="_blank">
 <img height="20" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a rel="me" href="https://mastodon.art/@jcarroyos">Mastodon</a>
 <a href="https://www.freecodecamp.org/jcarroyos" target="_blank">
 <img height="20" src=https://raw.githubusercontent.com/jcarroyos/jcarroyos/main/fcc.png?&style=for-the-badge&logo=freecodecamp&logoColor=black alt=github style="margin-bottom: 5px;" />
 </a>  
+<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109602978503620324?domain=https%3A%2F%2Fmastodon.art%2F&style=social">
 </div>  
 
 <br/> 

@@ -1,6 +1,6 @@
 # Juan Carlos Arroyo Sosa
-💾 🎨 Creative developer passionate about using tech for social good. See how I'm turning art and ideas into code. 
+💾 🎨 Lectoescritor de código fuente. Tecnología y sociedad creativa
 
 [Portfolio in english](https://www.jcarroyos.art/docs/intro) | [Portafolio en español](https://jcarroyos.art/es/docs/intro)
 
-📚 Explore [my blog](https://jcarroyos.art/blog) to gain insights into my teaching experience in technology, communication, and museology, where I share my passion for fostering meaningful learning experiences. Go to  my [GitHub Teaching Profile](https://github.com/jcarroyos-teaching) to examine my class activity code notebooks.
+📚 Explore [my blog](https://jcarroyos.art/blog) Para conocer mi experiencia docente en tecnología, comunicación y museología, donde comparto mi pasión por fomentar experiencias de aprendizaje significativas. Visita [GitHub Teaching Profile](https://github.com/jcarroyos-teaching) mis bocetos de clase.

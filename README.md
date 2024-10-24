@@ -1,5 +1,5 @@
 # @arroyomaker
-💾 🎨 Source Code Writer: Technology and Creative Society
+⚙️🔌🤖🎨 Let's tinker! | ¡vamos a cacharrear! 
 
 [Portfolio in english](https://jcarroyos.art/docs/intro) | [Portafolio en español](https://jcarroyos.art/es/docs/intro)
 

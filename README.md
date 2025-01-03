@@ -1,5 +1,5 @@
-# @arroyomaker
-⚙️🔌🤖🎨 Let's tinker! | ¡vamos a cacharrear! 
+# @arroyomaker ⚙️🔌🤖🎨 
+Let’s get tinkering!  | ¡Vamos a cacharrear! 
 
 [Portfolio in english](https://jcarroyos.art/docs/intro) | [Portafolio en español](https://jcarroyos.art/es/docs/intro)
 
